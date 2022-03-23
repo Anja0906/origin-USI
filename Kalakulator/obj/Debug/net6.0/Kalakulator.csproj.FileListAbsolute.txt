@@ -1,0 +1,15 @@
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\bin\Debug\net6.0\Kalakulator.exe
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\bin\Debug\net6.0\Kalakulator.deps.json
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\bin\Debug\net6.0\Kalakulator.runtimeconfig.json
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\bin\Debug\net6.0\Kalakulator.dll
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\bin\Debug\net6.0\Kalakulator.pdb
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.csproj.AssemblyReference.cache
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.AssemblyInfoInputs.cache
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.AssemblyInfo.cs
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.csproj.CoreCompileInputs.cache
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.dll
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\refint\Kalakulator.dll
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.pdb
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\Kalakulator.genruntimeconfig.cache
+C:\Users\ANJA\RiderProjects\Kalakulator\Kalakulator\obj\Debug\net6.0\ref\Kalakulator.dll

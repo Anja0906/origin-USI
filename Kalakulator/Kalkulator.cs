@@ -26,14 +26,17 @@ public class Kalkulator
 
         return rez;
     }
-    
-    public static void Main()
+
+    public static void UnosTeksta()
+    {
+        Console.Write("Unesite izraz: ");
+        string test = Console.ReadLine() ?? throw new InvalidOperationException();
+        Console.Write("Unesli ste: "+test);
+    }
+
+    public static void RacunanjeIzraza()
     {
         string test;
-        
-        Console.Write("\n\nKalkulator\n");
-        Console.Write("---------------------\n");   
-        
         while (true)
         {
             Console.Write("Unesite izraz: ");
@@ -56,9 +59,28 @@ public class Kalkulator
                     Console.Write("Neispravan unos! Imate previse parametara");
                 }
             }
-            
-            
         }
+    }
+    
+    public static void Main()
+    {
+        string test;
+        
+        Console.Write("\n\nKalkulator\n");
+        Console.Write("---------------------\n");   
+        Console.Write("Opcije: \n1.Unos teksta\n2.Racunanje izraza\n");
+        string option = Console.ReadLine() ?? throw new InvalidOperationException();
+        switch (option)
+        {
+            case "1":
+                UnosTeksta();
+                break;
+            case "2":
+                RacunanjeIzraza();
+                break;
+        }
+        
+        
             
         
     }
